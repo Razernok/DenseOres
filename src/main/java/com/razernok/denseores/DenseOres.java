@@ -20,7 +20,7 @@ import java.util.logging.Level;
  * Dense Ores - A Hytale server plugin.
  *
  * @author Razernok
- * @version 1.0.0
+ * @version 1.0.1
  */
 public class DenseOres extends JavaPlugin {
     //Config

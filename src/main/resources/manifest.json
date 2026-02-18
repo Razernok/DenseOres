@@ -1,7 +1,7 @@
 {
   "Group": "com.razernok",
   "Name": "DenseOres",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Adds dense versions of every ore that drop three times the normal resources.",
   "Authors": [
     {
