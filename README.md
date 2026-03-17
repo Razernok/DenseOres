@@ -16,4 +16,4 @@ Spawn rates are fully configurable per ore type, allowing server owners to fine-
 
 🔧 Compatibility
 
-Compatible with other ore-adding mods. Does not automatically apply to modded ores. No dependencies required
+Compatible with other ore-adding mods. Automatically applies to modded ores. No dependencies required
